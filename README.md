@@ -5,7 +5,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 **I love working with**
 
 <div display="flex">
-  <img src="[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fjava&psig=AOvVaw1rPr3SaQu5El7D5_X2LwYN&ust=1706899682692000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjjyfvmioQDFQAAAAAdAAAAABAE)" alt="Java"/>
+  <img src="[[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fjava&psig=AOvVaw1rPr3SaQu5El7D5_X2LwYN&ust=1706899682692000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjjyfvmioQDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fjava%2Findex.html&psig=AOvVaw1jboXSMdzq-shF1xGDWhxl&ust=1706899737891000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjIsJbnioQDFQAAAAAdAAAAABAQ))" alt="Java"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
